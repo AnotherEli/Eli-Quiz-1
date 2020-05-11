@@ -29,18 +29,36 @@ namespace Professor_Class_Problem
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
+            //constructors
             Console.WriteLine("\n This professor should be the default. \n");
             Professor defaultProfessor = new Professor();
             Console.WriteLine(defaultProfessor.ToString());
 
-            Console.WriteLine("\n The fake professor should throw an exception. \n");
-            Professor fakeProfessor = new Professor("12345", "Not", "Real Professor", "totally real department");
-            Console.WriteLine(fakeProfessor.ToString());
-
-            Console.WriteLine("\n This professor should be fine. \n");
+            Console.WriteLine("\n This professor should be overloaded. \n");
             Professor realProfessor = new Professor("L009800988", "Jessica", "Doctoratehaver", "Studies of Graduates");
             Console.WriteLine(realProfessor.ToString());
+
+            //properties
+            realProfessor.LNumber = "L00444444";
+            realProfessor.FirstName = "Jess";
+            realProfessor.LastName = "Doctor";
+            realProfessor.Department = "Graduate Studies";
+
+            
+            Console.WriteLine("Testing setters for Jessica" + realProfessor.ToString());
+
+            Console.WriteLine("\n The fake professor should throw an exception. \n");
+            Professor fakeProfessor = new Professor();
+
+            fakeProfessor.LastName = " PROFESSOR ";
+            fakeProfessor.FirstName = "FAKE";
+            fakeProfessor.Department = "NOT DEPARTMENT";
+            fakeProfessor.LNumber = "123456789";
+
+            Console.WriteLine(fakeProfessor.ToString());
+
+
+
         }
     }
 }
