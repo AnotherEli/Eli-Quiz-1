@@ -1,0 +1,11 @@
+C:\Users\Eli\source\repos\Quiz 1 Work\bin\Debug\netcoreapp3.1\Quiz 1 Work.exe
+C:\Users\Eli\source\repos\Quiz 1 Work\bin\Debug\netcoreapp3.1\Quiz 1 Work.deps.json
+C:\Users\Eli\source\repos\Quiz 1 Work\bin\Debug\netcoreapp3.1\Quiz 1 Work.runtimeconfig.json
+C:\Users\Eli\source\repos\Quiz 1 Work\bin\Debug\netcoreapp3.1\Quiz 1 Work.runtimeconfig.dev.json
+C:\Users\Eli\source\repos\Quiz 1 Work\bin\Debug\netcoreapp3.1\Quiz 1 Work.dll
+C:\Users\Eli\source\repos\Quiz 1 Work\bin\Debug\netcoreapp3.1\Quiz 1 Work.pdb
+C:\Users\Eli\source\repos\Quiz 1 Work\obj\Debug\netcoreapp3.1\Quiz 1 Work.csprojAssemblyReference.cache
+C:\Users\Eli\source\repos\Quiz 1 Work\obj\Debug\netcoreapp3.1\Quiz 1 Work.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\Quiz 1 Work\obj\Debug\netcoreapp3.1\Quiz 1 Work.AssemblyInfo.cs
+C:\Users\Eli\source\repos\Quiz 1 Work\obj\Debug\netcoreapp3.1\Quiz 1 Work.dll
+C:\Users\Eli\source\repos\Quiz 1 Work\obj\Debug\netcoreapp3.1\Quiz 1 Work.pdb

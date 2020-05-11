@@ -1,0 +1,10 @@
+D:\GitThings\Eli-Quiz-1\Eliza Problem\bin\Debug\netcoreapp3.1\Eliza Problem.exe
+D:\GitThings\Eli-Quiz-1\Eliza Problem\bin\Debug\netcoreapp3.1\Eliza Problem.deps.json
+D:\GitThings\Eli-Quiz-1\Eliza Problem\bin\Debug\netcoreapp3.1\Eliza Problem.runtimeconfig.json
+D:\GitThings\Eli-Quiz-1\Eliza Problem\bin\Debug\netcoreapp3.1\Eliza Problem.runtimeconfig.dev.json
+D:\GitThings\Eli-Quiz-1\Eliza Problem\bin\Debug\netcoreapp3.1\Eliza Problem.dll
+D:\GitThings\Eli-Quiz-1\Eliza Problem\bin\Debug\netcoreapp3.1\Eliza Problem.pdb
+D:\GitThings\Eli-Quiz-1\Eliza Problem\obj\Debug\netcoreapp3.1\Eliza Problem.AssemblyInfoInputs.cache
+D:\GitThings\Eli-Quiz-1\Eliza Problem\obj\Debug\netcoreapp3.1\Eliza Problem.AssemblyInfo.cs
+D:\GitThings\Eli-Quiz-1\Eliza Problem\obj\Debug\netcoreapp3.1\Eliza Problem.dll
+D:\GitThings\Eli-Quiz-1\Eliza Problem\obj\Debug\netcoreapp3.1\Eliza Problem.pdb
