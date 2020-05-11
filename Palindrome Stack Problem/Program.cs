@@ -47,7 +47,7 @@ namespace Palindrome_Stack_Problem
             char c;
             //convert it into a solid block
             for (int i = 0; i < str.Length; i++)
-                if (!Char.IsWhiteSpace(str[i]) && !Char.IsPunctuation(str[i]))
+                if (Char.IsLetter(str[i]))
                     s += str[i];
            
             s = s.ToLower();
