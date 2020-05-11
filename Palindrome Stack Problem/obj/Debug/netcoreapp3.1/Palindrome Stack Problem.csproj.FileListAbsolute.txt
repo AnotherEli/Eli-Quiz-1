@@ -1,0 +1,11 @@
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\bin\Debug\netcoreapp3.1\Palindrome Stack Problem.exe
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\bin\Debug\netcoreapp3.1\Palindrome Stack Problem.deps.json
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\bin\Debug\netcoreapp3.1\Palindrome Stack Problem.runtimeconfig.json
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\bin\Debug\netcoreapp3.1\Palindrome Stack Problem.runtimeconfig.dev.json
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\bin\Debug\netcoreapp3.1\Palindrome Stack Problem.dll
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\bin\Debug\netcoreapp3.1\Palindrome Stack Problem.pdb
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\obj\Debug\netcoreapp3.1\Palindrome Stack Problem.csprojAssemblyReference.cache
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\obj\Debug\netcoreapp3.1\Palindrome Stack Problem.AssemblyInfoInputs.cache
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\obj\Debug\netcoreapp3.1\Palindrome Stack Problem.AssemblyInfo.cs
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\obj\Debug\netcoreapp3.1\Palindrome Stack Problem.dll
+D:\GitThings\Eli-Quiz-1\Palindrome Stack Problem\obj\Debug\netcoreapp3.1\Palindrome Stack Problem.pdb
