@@ -57,7 +57,7 @@ namespace Palindrome_Stack_Problem
             if (s.Length % 2 != 0)
                 odd = true;
 
-            int middle = str.Length / 2;
+            int middle = s.Length / 2;
             Stack<char> firstLetters = new Stack<char>();
             Queue<char> lastLetters = new Queue<char>();
 
@@ -80,7 +80,7 @@ namespace Palindrome_Stack_Problem
             {
                 char a = firstLetters.Pop();
                 char b = lastLetters.Dequeue();
-                if (a != b)
+                if (!a.Equals(b))
                     isPalindrome = false;
             }
 
